@@ -1,2 +1,2 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https:shopkartbackend-production.up.railway.app';
 export default BASE_URL;
